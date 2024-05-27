@@ -1,0 +1,12 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\VTD\NoteTheFuture\NoteTheFuture\bin\Debug\NoteTheFuture.exe.config
+C:\Users\ZAFER\OneDrive\Masaüstü\VTD\NoteTheFuture\NoteTheFuture\bin\Debug\NoteTheFuture.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\VTD\NoteTheFuture\NoteTheFuture\bin\Debug\NoteTheFuture.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\VTD\NoteTheFuture\NoteTheFuture\obj\Debug\NoteTheFuture.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\VTD\NoteTheFuture\NoteTheFuture\obj\Debug\NoteTheFuture.Form1.resources
+C:\Users\ZAFER\OneDrive\Masaüstü\VTD\NoteTheFuture\NoteTheFuture\obj\Debug\NoteTheFuture.Properties.Resources.resources
+C:\Users\ZAFER\OneDrive\Masaüstü\VTD\NoteTheFuture\NoteTheFuture\obj\Debug\NoteTheFuture.csproj.GenerateResource.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\VTD\NoteTheFuture\NoteTheFuture\obj\Debug\NoteTheFuture.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\VTD\NoteTheFuture\NoteTheFuture\obj\Debug\NoteTheFuture.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\VTD\NoteTheFuture\NoteTheFuture\obj\Debug\NoteTheFuture.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\VTD\NoteTheFuture\NoteTheFuture\obj\Debug\NoteTheFuture.gecmis.resources
+C:\Users\ZAFER\OneDrive\Masaüstü\VTD\NoteTheFuture\NoteTheFuture\obj\Debug\NoteTheFuture.gelecek.resources
